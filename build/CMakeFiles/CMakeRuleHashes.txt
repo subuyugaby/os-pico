@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+9e9f3f6fde79edf1a59ecb355dfca478 pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_bin
+9e9f3f6fde79edf1a59ecb355dfca478 pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_padded_checksummed_asm
+14cc682b974c87ebfd9e611de212155a pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin
+6187d906eadcba50d2e1be1605424ae3 pico-sdk/src/rp2_common/boot_stage2/bs2_default_padded_checksummed.S
